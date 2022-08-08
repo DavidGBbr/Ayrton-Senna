@@ -30,7 +30,7 @@ export default function App() {
         tabBarLabelStyle:{
           fontSize:16,
         },
-        tabBarActiveTintColor:'#ba171',
+        tabBarActiveTintColor:'#c11618',
         tabBarInactiveTintColor:'#000',
         tabBarActiveBackgroundColor:'#fff',
       }}>
