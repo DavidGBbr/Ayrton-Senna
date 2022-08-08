@@ -19,6 +19,7 @@ export default function TelaSobre() {
         o brasileiro foi o responsável por alguns dos momentos mais mágicos da principal categoria de automobilismo mundial.
         </Text>
     </View>
+
     <ScrollView>
 
       <View style={styles.box}>
@@ -54,6 +55,7 @@ export default function TelaSobre() {
       </View>
 
   </ScrollView>
+  
   </View>
 
   );
